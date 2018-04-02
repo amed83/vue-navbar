@@ -1,5 +1,6 @@
 # vue-navbar
 
+![alt text](./src/assets/img/screenshot.png)
 > A Vue.js project
 
 ## Build Setup
