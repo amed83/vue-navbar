@@ -17,8 +17,11 @@
                         <div class="circle">
                             <img src="../assets/img/user.png"  alt="User-Image">
                         </div>
-                        <div class="img-settings-icon">
+                        <div >
                             <i class="fa fa-cog" ></i>
+                        </div>
+                        <div>
+                            <i class="fa fa-asterisk" ></i>
                         </div>
                     </div>
                 </div>
@@ -122,6 +125,14 @@ li a:hover{
     left:87%;
     color: var(--main-color);
     font-size:2.1rem;
+}
+
+.fa-asterisk{
+    color: var(--main-color);
+    position:absolute;
+    top:60%;
+    left:93%;
+    font-size:1rem;
 }
 
 </style>
