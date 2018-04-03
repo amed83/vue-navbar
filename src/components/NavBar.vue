@@ -51,7 +51,6 @@ export default {
     background-color: rgb(62, 58, 84);
     font-size:1.6rem;
     min-height: 8rem;
-    /* color:rgb(161, 156, 156); */
     --main-color:rgb(161, 156, 156);
 }
 ul{
@@ -60,7 +59,6 @@ ul{
     list-style-type: none;
     flex:0 0 40%;
 }
-
 
 li a{
     color: var(--main-color);
@@ -73,7 +71,6 @@ li a:hover{
     color:white;
     border-bottom: solid white 2.5px;
 }
-
 
 .logo img{
     width: 5rem;
